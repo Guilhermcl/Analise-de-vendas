@@ -15,12 +15,6 @@ outlook e email (alternativa para envio via Gmail do win32)
 
 Excel (.xlsx)
 # Como Executar o Projeto
-Clone o repositório:
-
-bash
-Copiar
-Editar
-git clone https://github.com/seu-usuario/seu-repositorio.git
 Acesse o diretório do projeto:
 
 bash
